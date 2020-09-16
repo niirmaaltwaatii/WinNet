@@ -1,4 +1,4 @@
-:: https://github.com/niirmaaltwaatii/WinFI
+:: https://github.com/niirmaaltwaatii/WinNet
 
 echo {
 netsh wlan show profiles
@@ -6,4 +6,4 @@ echo }
 
 pause
 
-winfi.bat
+winnet.bat
