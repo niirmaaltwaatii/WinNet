@@ -1,5 +1,5 @@
 REM N11rm44L 7w44711
-:: GitHub : https://github.com/niirmaaltwaatii/WinFI
+:: GitHub : https://github.com/niirmaaltwaatii/WinNet
 echo {
 set /p n="ENter Network NAME : "
 echo Network : %n%
@@ -8,4 +8,4 @@ echo }
 
 pause
 
-winfi.bat
+winnet.bat
