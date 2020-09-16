@@ -2,7 +2,7 @@
 Network Tool For Windows OS ; View Wi-Fi Passwords , DELETE or Export Wi-Fi Networks etc ;
 
 ## Screenshots
-![WinNet Tool ScreenShot](img/winnet1.png)
+![WinNet Tool ScreenShot](winnet1.png)
 
 ## SetUp
 ```
