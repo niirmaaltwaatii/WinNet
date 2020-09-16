@@ -1,13 +1,13 @@
-# WinFi
-Wi-Fi Tool For Windows OS ; To view Wi-Fi Passwords etc ;
+# WinNet
+Network Tool For Windows OS ; View Wi-Fi Passwords , DELETE or Export Wi-Fi Networks etc ;
 
 ## SetUp
 ```
-$ git clone https://github.com/niirmaaltwaatii/WinFi
+$ git clone https://github.com/niirmaaltwaatii/WinNet
 ```
 ```
-$ cd WinFi
+$ cd WinNet
 ```
 ```
-$ winfi.bat
+$ WinNet OR winnet.bat
 ```
