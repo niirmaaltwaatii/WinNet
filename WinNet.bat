@@ -1,9 +1,10 @@
 @echo off
 REM BY Niirmaal Twaatii
 :: GitHub : https://github.com/niirmaaltwaatii/WinNet
+title WinNet
 REM net user administrator /active:yes
 echo {
-echo ----------[ Welcome to WinNet ]--------------------
+echo --------------[ Welcome to WinNet ]----------------
 echo [           WinNet By N11rm44L 7w44711            ]
 echo ---------------------------------------------------
 echo / [0] Show All Networks (Names)                   \
