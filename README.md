@@ -14,3 +14,11 @@ $ cd WinNet
 ```
 $ WinNet OR winnet.bat | ./winnet OR ./winnet.bat
 ```
+
+## Warnings
+* Wi-Fi Networks Delete
+  - Be careful while deleting all networks , No Turning Back
+  - Choosing Wi-Fi name * in specific delete is same as delete all so never enter *
+  - AndroidShare* deletes all networks starting from AndroidShare eg. AndroidShare_4569
+* Export Networks
+  - Exporting networks that is already on exports/ overwrites it
