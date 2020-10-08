@@ -12,5 +12,5 @@ $ git clone https://github.com/niirmaaltwaatii/WinNet
 $ cd WinNet
 ```
 ```
-$ WinNet OR winnet.bat
+$ WinNet OR winnet.bat | ./winnet OR ./winnet.bat
 ```

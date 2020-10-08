@@ -14,7 +14,7 @@ echo \ [3] Connect to Network                          /
 echo / [4] Delete Network Profiles [ All or Specific ] \
 echo \ [5] Export Network Profiles [ All or Specific ] /
 echo / [8] About                                       \
-echo \ [ ] Exit                                        /
+echo \ [9] Exit                                        /
 echo ---------------------------------------------------
 echo }
 
