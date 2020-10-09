@@ -1,8 +1,8 @@
 # WinNet
-Network Tool For Windows OS ; View Wi-Fi Passwords , DELETE or Export Wi-Fi Networks etc ;
+Network Tool For Windows OS ; View Wi-Fi Passwords , DELETE or Import/Export Wi-Fi Networks etc ;
 
 ## Screenshots
-![WinNet Tool ScreenShot](img/winnet1.png)
+![WinNet Tool ScreenShot](img/WinNet.jpg)
 
 ## SetUp
 ```
@@ -22,3 +22,7 @@ $ WinNet OR winnet.bat | ./winnet OR ./winnet.bat
   - AndroidShare* deletes all networks starting from AndroidShare eg. AndroidShare_4569
 * Export Networks
   - Exporting networks that is already on exports/ overwrites it
+
+### Known bugs & errors
+* Network Connect doesn't work
+* Network Pofiles Import from exports/ gives error
