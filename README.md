@@ -22,3 +22,7 @@ $ WinNet OR winnet.bat | ./winnet OR ./winnet.bat
   - AndroidShare* deletes all networks starting from AndroidShare eg. AndroidShare_4569
 * Export Networks
   - Exporting networks that is already on exports/ overwrites it
+
+### Known bugs & errors
+* Network Connect doesn't work
+* Network Pofiles Import from exports/ gives error
