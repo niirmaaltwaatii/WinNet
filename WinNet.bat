@@ -13,9 +13,10 @@ echo / [2] Show Wireless Adapter Settings              \
 echo \ [3] Import Network Profiles [ exports/specific  /
 echo / [4] Delete Network Profiles [ All or Specific ] \
 echo \ [5] Export Network Profiles [ All or Specific ] /
-echo / [6] Connect to Network                          \
-echo \ [8] About                                       /
-echo / [9] Exit                                        \
+echo / [6] Connect to Network [ Beta ]                 \
+echo \ [7] Check or Update WinNet                      /  
+echo / [8] About                                       \
+echo \ [9] Exit                                        /
 echo ---------------------------------------------------
 echo }
 
@@ -31,3 +32,6 @@ if %inp%==3 (import.bat)
 if %inp%==4 (delnet.bat)
 if %inp%==5 (export.bat)
 if %inp%==6 (connect.bat)
+if %inp%==7 (update.bat)
+
+:twaatii
