@@ -10,14 +10,16 @@ echo ---------------------------------------------------
 echo / [0] Show All Networks (Names)                   \
 echo \ [1] Show Password of Specific Network           /
 echo / [2] Show Wireless Adapter Settings              \
-echo \ [3] Connect to Network                          /
+echo \ [3] Import Network Profiles [ exports/specific  /
 echo / [4] Delete Network Profiles [ All or Specific ] \
 echo \ [5] Export Network Profiles [ All or Specific ] /
-echo / [8] About                                       \
-echo \ [9] Exit                                        /
+echo / [6] Connect to Network                          \
+echo \ [8] About                                       /
+echo / [9] Exit                                        \
 echo ---------------------------------------------------
 echo }
 
+set inp=9
 set /p inp="[]=> "
 
 if %inp%==9 (exit)
@@ -25,6 +27,7 @@ if %inp%==8 (about.bat)
 if %inp%==0 (showall.bat)
 if %inp%==1 (pwd.bat)
 if %inp%==2 (itrf.bat)
-if %inp%==3 (connect.bat)
+if %inp%==3 (import.bat)
 if %inp%==4 (delnet.bat)
 if %inp%==5 (export.bat)
+if %inp%==6 (connect.bat)
