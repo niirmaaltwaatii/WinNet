@@ -1,5 +1,5 @@
 # WinNet
-Network Tool For Windows OS ; View Wi-Fi Passwords , DELETE or Export Wi-Fi Networks etc ;
+Network Tool For Windows OS ; View Wi-Fi Passwords , DELETE or Import/Export Wi-Fi Networks etc ;
 
 ## Screenshots
 ![WinNet Tool ScreenShot](img/winnet1.png)
